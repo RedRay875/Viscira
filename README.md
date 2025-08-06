@@ -4,8 +4,6 @@
 
 **Viscira** is a sleek, fully customizable AI-powered image generator that converts your text prompts into stunning visuals using Hugging Face’s advanced models like Stable Diffusion.
 
-![Viscira Banner](https://dummyimage.com/1000x300/1a1a1a/ffffff&text=Viscira+AI+Image+Generator)
-
 ---
 
 ## 🚀 Features
