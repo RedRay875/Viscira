@@ -28,7 +28,7 @@
 
 ## 📸 Live Demo
 
-👉 [View Viscira Live](#) _(https://viscira-ai-image-generator.netlify.app/)_  
+👉 View Live Demo (https://viscira-ai-image-generator.netlify.app/)_  
 ⚠️ You need a valid Hugging Face API Key to generate images.
 
 ---
